@@ -1,0 +1,4 @@
+1700,3
+SimpleGoal;dfasdf~dfasdfas~200~True
+EternalGoal;dfasdfas~dfasdfas~200
+CheckListGoal;dfasdf~dafasdf~500~2~500~2
